@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="23ca9708-fad3-4673-b897-80704ee64383" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -154,7 +155,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602647321630</updated>
       <workItem from="1602647322676" duration="1078000" />
-      <workItem from="1603095485998" duration="2028000" />
+      <workItem from="1603095485998" duration="2634000" />
     </task>
     <servers />
   </component>
