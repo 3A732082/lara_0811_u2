@@ -37,9 +37,12 @@ Route::get('r3', function () {
     return view('welcome');
 
 });
+
+//設定dashboard路徑的route
 Route::get('dashboard', function () {
     return 'dashboard';
 });
+//設定prefix
 Route::group(['prefix'=>'admin'],function (){
     Route::get('dashboard',function (){
         return 'admin dashboard';
