@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 */
-Route::get('/',['as'=>'home.lndex','uses'=>'HomeController@index']);
+Route::get('/',[\App\Http\Controllers\HomeController::class,'home.index']);
 
 Route::get('r1', function () {
     return redirect('r2');
